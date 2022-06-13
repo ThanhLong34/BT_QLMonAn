@@ -1,0 +1,12 @@
+D:\Projects\Winform\BT_QLMonAn\bin\Debug\BT_QLMonAn.exe.config
+D:\Projects\Winform\BT_QLMonAn\bin\Debug\BT_QLMonAn.exe
+D:\Projects\Winform\BT_QLMonAn\bin\Debug\BT_QLMonAn.pdb
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.csproj.AssemblyReference.cache
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.frmThongTinMonAn.resources
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.Properties.Resources.resources
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.csproj.GenerateResource.cache
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.csproj.CoreCompileInputs.cache
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.exe
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.pdb
+D:\Projects\Winform\BT_QLMonAn\obj\Debug\BT_QLMonAn.frmQuanLyMonAn.resources
